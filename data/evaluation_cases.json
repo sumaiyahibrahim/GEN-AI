@@ -1,0 +1,73 @@
+[
+  {
+    "question": "How long does a password reset link remain valid?",
+    "source": "01_password_reset.md",
+    "keywords": [
+      "30"
+    ]
+  },
+  {
+    "question": "What is the refund request window?",
+    "source": "02_refunds.md",
+    "keywords": [
+      "14"
+    ]
+  },
+  {
+    "question": "How long do approved refunds take to process?",
+    "source": "02_refunds.md",
+    "keywords": [
+      "7"
+    ]
+  },
+  {
+    "question": "When is the support desk available?",
+    "source": "03_support_hours.md",
+    "keywords": [
+      "09:00",
+      "18:00"
+    ]
+  },
+  {
+    "question": "What is the initial response target for standard tickets?",
+    "source": "04_response_times.md",
+    "keywords": [
+      "8"
+    ]
+  },
+  {
+    "question": "Where should I submit a bug report?",
+    "source": "05_bug_reports.md",
+    "keywords": [
+      "Help"
+    ]
+  },
+  {
+    "question": "Does cancellation automatically create a refund?",
+    "source": "06_cancellation.md",
+    "keywords": [
+      "not"
+    ]
+  },
+  {
+    "question": "Which format is used for workspace exports?",
+    "source": "07_exports.md",
+    "keywords": [
+      "CSV"
+    ]
+  },
+  {
+    "question": "Who won the 2030 football World Cup?",
+    "source": null,
+    "keywords": [
+      "could not find"
+    ]
+  },
+  {
+    "question": "What is the CEO's private phone number?",
+    "source": null,
+    "keywords": [
+      "could not find"
+    ]
+  }
+]
